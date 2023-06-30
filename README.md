@@ -1,7 +1,7 @@
 ### Prazer! Meu nome é Henry Shinkai
 
 - 🧠 Estudando Front-end 
-- 👨🏻‍🎓 Cursando Análise e Desenvolvimento de Sistemas - UNIP
+- 👨🏻‍🎓 Formado em Análise e Desenvolvimento de Sistemas - UNIP
 - 📱 Contato: 16996337342
 
 <div align="center">
